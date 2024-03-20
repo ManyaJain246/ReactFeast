@@ -1,0 +1,25 @@
+
+button{
+  background-color:rgb(49, 114, 144);
+  color:white
+}
+
+button:hover{
+  background-color:rgb(246, 200, 35);
+  color:black;
+}
+
+.dist{
+  display: flex;
+  gap:10rem;
+}
+
+
+h1{
+  position:static;
+}
+
+.main button:hover{
+  background-color:rgb(49, 114, 144);
+  color:white
+}
