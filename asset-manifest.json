@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactFeast/static/css/main.6b90ae72.css",
+    "main.js": "/ReactFeast/static/js/main.57176353.js",
+    "index.html": "/ReactFeast/index.html",
+    "main.6b90ae72.css.map": "/ReactFeast/static/css/main.6b90ae72.css.map",
+    "main.57176353.js.map": "/ReactFeast/static/js/main.57176353.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b90ae72.css",
+    "static/js/main.57176353.js"
+  ]
+}
